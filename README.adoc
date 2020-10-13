@@ -12,12 +12,8 @@ Malicious IP  Indicators of Compromise
                                                                      |___/ 
                                                                      
 
-Here are indicators of compromise (IOCs) of our various investigations. We are
-doing this to help the broader security community fight malicious IP wherever it
-might be.
+This is an up-to-date list of IP addresses detected for malicious activity in the wild.
 
-If you would like to contribute improved versions please send us a pull
-request.
+The objective is to share these Indicators of Compromise with the community in a very fast an simple way.
 
-If you've found false positives give us the details in an issue report and
-we'll try to improve our IOCs.
+If you want to contribute, or simply give us some hint for improvement you are more than welcome.
