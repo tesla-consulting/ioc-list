@@ -14,6 +14,7 @@ Malicious IP  Indicators of Compromise
 
 This is an up-to-date list of IP addresses detected for malicious activity in the wild.
 
-The objective is to share these Indicators of Compromise with the community in a very fast an simple way.
+The objective is to share these Indicators of Compromise with the community in a very fast and simple way.
 
 If you want to contribute, or simply give us some hint for improvement you are more than welcome.
+
