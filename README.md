@@ -1,2 +1,0 @@
-# ioc-list
-IoC List
