@@ -1,9 +1,15 @@
 Malicious IP  Indicators of Compromise
 ========================================
 
-     .------------------.
-    (  Tesla Consulting  )
-     `------------------'
+ _______        _          _____                      _ _   _             
+ |__   __|      | |        / ____|                    | | | (_)            
+    | | ___  ___| | __ _  | |     ___  _ __  ___ _   _| | |_ _ _ __   __ _ 
+    | |/ _ \/ __| |/ _` | | |    / _ \| '_ \/ __| | | | | __| | '_ \ / _` |
+    | |  __/\__ \ | (_| | | |___| (_) | | | \__ \ |_| | | |_| | | | | (_| |
+    |_|\___||___/_|\__,_|  \_____\___/|_| |_|___/\__,_|_|\__|_|_| |_|\__, |
+                                                                      __/ |
+                                                                     |___/ 
+                                                                     
 
 Here are indicators of compromise (IOCs) of our various investigations. We are
 doing this to help the broader security community fight malicious IP wherever it
