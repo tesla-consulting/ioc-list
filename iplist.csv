@@ -3716,7 +3716,6 @@ submitted, ip, flag, country, description
 2020-11-30 16:40:30, 45.153.242.129, 🇩🇪, Germany, Ransomware Egregor
 2020-11-30 16:40:30, 185.238.0.233, 🇳🇱, Netherlands, Ransomware Egregor
 2020-11-30 16:40:30, 123.176.38.70, 🇮🇳, India, FTP auth brute force
-2020-12-01 20:06:56, 78.128.113.66, 🇧🇬, Bulgaria, FTP auth brute force
-2020-12-01 20:06:56, 5.188.206.202, 🇧🇬, Bulgaria, FTP auth brute force
+2020-12-01 20:06:56, 78.128.113.66, 🇧🇬, Bulgaria, SMTP auth brute force
 2020-12-02 09:42:43, 221.237.182.98, 🇨🇳, China, FTP auth brute force
 2020-12-04 10:33:07, 52.139.193.220, 🇸🇬, Singapore, SMTP Auth brute force
