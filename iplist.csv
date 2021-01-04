@@ -3877,3 +3877,4 @@ submitted, ip, flag, country, description
 2020-12-30 15:41:34, 25.171.141.132,  GB, United Kingdom, Malicious mail authentication
 2021-01-04 07:55:47, 194.61.53.41, 🇴🇲, Oman, SMTP auth brute force
 2021-01-04 07:55:47, 151.237.185.4, 🇸🇪, Sweden, SMTP auth brute force
+2021-01-04 07:55:47, 191.241.233.198, 🇧🇷, Brazil, Emotet malspam
