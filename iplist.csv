@@ -4942,3 +4942,4 @@ submitted, ip, flag, country, description
 2021-12-13 17:22:38, 88.80.20.86, 🇸🇪, Sweden, Apache Log4j RCE Attempt
 2021-12-13 17:22:44, 89.163.143.8, 🇩🇪, Germany, Apache Log4j RCE Attempt
 2021-12-13 17:22:47, 89.163.154.91, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:10:47, 223.247.132.134, 🇨🇳, China, FTP auth brute force
