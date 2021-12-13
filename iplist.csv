@@ -4082,3 +4082,863 @@ submitted, ip, flag, country, description
 2021-09-16 22:36:11, 194.61.24.153, 🇷🇺, Russia, SMTP auth brute force
 2021-10-01 17:29:46, 31.130.184.191, 🇮🇷, Iran, SMTP auth brute force
 2021-11-16 08:18:37, 192.3.194.202, 🇺🇸, United States, Exchange proxyshell
+2021-12-13 16:08:23, 101.204.24.28, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:08:26, 101.35.154.34, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:08:29, 101.43.40.206, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:08:32, 101.71.37.219, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:08:35, 101.71.37.47, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:08:37, 101.71.38.179, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:08:40, 101.71.38.231, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:08:43, 103.103.0.141, 🇵🇭, Philippines, Apache Log4j RCE Attempt
+2021-12-13 16:08:47, 103.103.0.142, 🇵🇭, Philippines, Apache Log4j RCE Attempt
+2021-12-13 16:08:53, 103.107.198.108, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:08:57, 103.107.198.109, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:09:00, 103.214.5.13, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:09:06, 103.232.137.187, 🇹🇼, Taiwan, Apache Log4j RCE Attempt
+2021-12-13 16:09:09, 103.4.30.79, 🇹🇼, Taiwan, Apache Log4j RCE Attempt
+2021-12-13 16:09:13, 103.90.239.209, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:09:17, 104.200.138.39, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:09:20, 104.244.72.115, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:09:25, 104.244.72.129, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:09:30, 104.244.72.136, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:09:33, 104.244.72.7, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:09:38, 104.244.73.126, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:09:40, 104.244.73.43, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:09:45, 104.244.73.85, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:09:48, 104.244.73.93, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:09:53, 104.244.74.211, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:09:58, 104.244.74.55, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:00, 104.244.74.57, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:06, 104.244.75.225, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:09, 104.244.75.74, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:15, 104.244.76.13, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:23, 104.244.76.170, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:30, 104.244.76.173, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:37, 104.244.76.44, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:40, 104.244.77.139, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:43, 104.244.77.235, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:49, 104.244.78.213, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:53, 104.244.79.6, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:10:59, 104.248.144.120, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:11:03, 107.189.10.137, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:09, 107.189.10.143, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:11, 107.189.11.153, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:16, 107.189.1.160, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:22, 107.189.1.178, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:27, 107.189.12.135, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:32, 107.189.13.143, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:35, 107.189.14.182, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:39, 107.189.14.76, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:44, 107.189.14.98, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:48, 107.189.28.100, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:51, 107.189.28.241, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:54, 107.189.28.84, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:11:57, 107.189.29.107, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:12:02, 107.189.29.41, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:12:08, 107.189.31.195, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:12:12, 107.189.31.241, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:12:16, 107.189.3.244, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:12:18, 107.189.5.206, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:12:21, 107.189.6.166, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:12:23, 107.189.8.65, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 16:12:28, 109.237.96.124, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 16:12:37, 109.70.100.22, 🇦🇹, Austria, Apache Log4j RCE Attempt
+2021-12-13 16:12:40, 109.70.100.23, 🇦🇹, Austria, Apache Log4j RCE Attempt
+2021-12-13 16:12:42, 109.70.100.25, 🇦🇹, Austria, Apache Log4j RCE Attempt
+2021-12-13 16:12:45, 109.70.100.26, 🇦🇹, Austria, Apache Log4j RCE Attempt
+2021-12-13 16:12:50, 109.70.100.27, 🇦🇹, Austria, Apache Log4j RCE Attempt
+2021-12-13 16:12:55, 109.70.100.28, 🇦🇹, Austria, Apache Log4j RCE Attempt
+2021-12-13 16:12:58, 109.70.100.31, 🇦🇹, Austria, Apache Log4j RCE Attempt
+2021-12-13 16:13:01, 109.70.100.34, 🇦🇹, Austria, Apache Log4j RCE Attempt
+2021-12-13 16:13:06, 109.70.100.36, 🇦🇹, Austria, Apache Log4j RCE Attempt
+2021-12-13 16:13:11, 109.70.150.139, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:13:14, 110.42.200.96, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:16, 111.193.180.158, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:19, 111.28.189.51, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:21, 1.116.59.211, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:29, 112.74.185.158, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:31, 112.74.34.48, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:34, 113.141.64.14, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:36, 113.98.224.68, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:39, 114.112.161.155, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:42, 1.14.17.89, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:47, 115.151.228.146, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:50, 115.151.228.18, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:52, 115.151.228.64, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:55, 115.151.228.83, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:13:58, 115.151.228.92, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:00, 115.151.228.95, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:03, 115.151.229.14, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:06, 115.151.229.16, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:08, 115.151.229.27, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:11, 115.151.229.39, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:14, 116.24.67.213, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:19, 116.62.20.122, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:21, 116.89.189.19, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 16:14:24, 116.89.189.30, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 16:14:27, 117.192.11.154, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:14:30, 1.179.247.182, 🇹🇭, Thailand, Apache Log4j RCE Attempt
+2021-12-13 16:14:32, 118.27.36.56, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 16:14:34, 119.28.91.153, 🇭🇰, Hong Kong, Apache Log4j RCE Attempt
+2021-12-13 16:14:37, 120.195.30.152, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:40, 120.211.140.116, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:42, 120.24.23.84, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:47, 1.209.249.188, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 16:14:50, 121.36.213.142, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:53, 121.4.56.143, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:14:58, 121.5.113.11, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:15:00, 121.5.219.20, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:15:06, 122.155.174.180, 🇹🇭, Thailand, Apache Log4j RCE Attempt
+2021-12-13 16:15:08, 122.161.50.23, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:15:13, 122.161.53.44, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:15:17, 123.60.215.208, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:15:19, 124.224.87.11, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:15:22, 128.199.15.215, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:15:27, 128.199.222.221, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:15:33, 128.31.0.13, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:15:36, 131.100.148.7, 🇧🇷, Brazil, Apache Log4j RCE Attempt
+2021-12-13 16:15:40, 132.226.170.154, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 16:15:43, 133.130.120.176, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 16:15:47, 133.18.201.195, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 16:15:53, 134.122.34.28, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:15:57, 134.209.24.42, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:16:00, 134.209.26.39, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:16:04, 134.209.82.14, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:16:08, 134.56.204.191, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:12, 135.148.43.32, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:17, 137.184.102.82, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:22, 137.184.104.73, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:28, 137.184.106.119, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:33, 137.184.111.180, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:36, 137.184.28.58, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:41, 137.184.61.190, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:44, 137.184.96.216, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:49, 137.184.98.176, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:16:54, 137.184.99.8, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:17:00, 138.197.106.234, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:17:06, 138.197.108.154, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:17:11, 138.197.167.229, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:17:14, 138.197.193.220, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:17:18, 138.197.216.230, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:17:21, 138.197.72.76, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:17:27, 138.197.9.239, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:17:33, 138.199.21.10, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 16:17:35, 138.199.21.9, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 16:17:38, 138.68.155.222, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:17:43, 138.68.167.19, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:17:48, 138.68.250.214, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:17:52, 139.28.218.132, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:17:55, 139.28.218.133, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:17:57, 139.28.218.134, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:18:00, 139.28.219.109, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 16:18:03, 139.59.101.242, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:18:07, 139.59.103.254, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:18:14, 139.59.108.31, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:18:18, 139.59.163.74, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:18:22, 139.59.182.104, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:18:27, 139.59.188.119, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:18:33, 139.59.224.7, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:18:37, 139.59.8.39, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:18:43, 139.59.96.42, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:18:46, 139.59.97.205, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:18:51, 139.59.99.80, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:18:55, 140.246.171.141, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:19:00, 141.239.152.254, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:19:02, 142.93.148.12, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:19:05, 142.93.151.166, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:19:11, 142.93.157.150, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:19:16, 142.93.34.250, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:19:20, 142.93.36.237, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:19:25, 143.110.221.204, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:19:30, 143.110.221.219, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:19:33, 143.198.180.150, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:19:37, 143.198.183.66, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:19:42, 143.198.237.19, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:19:44, 143.198.32.72, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:19:49, 143.198.45.117, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:19:53, 143.244.184.81, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:19:56, 144.48.37.78, 🇦🇺, Australia, Apache Log4j RCE Attempt
+2021-12-13 16:19:59, 145.220.24.19, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:20:05, 146.56.131.161, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 16:20:10, 146.56.148.181, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 16:20:13, 146.59.45.142, 🇵🇱, Poland, Apache Log4j RCE Attempt
+2021-12-13 16:20:15, 146.70.75.21, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:20:18, 146.70.75.53, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:20:21, 146.70.75.54, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:20:24, 147.135.6.221, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:20:27, 147.182.131.229, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:20:31, 147.182.150.124, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:20:37, 147.182.154.100, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:20:42, 147.182.167.165, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:20:47, 147.182.169.254, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:20:52, 147.182.179.141, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:20:56, 147.182.187.229, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:21:00, 147.182.198.103, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:21:02, 147.182.199.94, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:21:07, 147.182.213.12, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:21:11, 147.182.215.36, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:21:13, 147.182.216.21, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:21:19, 147.182.219.9, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:21:23, 147.182.242.144, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:21:26, 147.182.242.241, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:21:29, 150.158.189.96, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:21:34, 151.115.60.113, 🇵🇱, Poland, Apache Log4j RCE Attempt
+2021-12-13 16:21:39, 151.80.148.159, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 16:21:45, 152.89.239.12, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:21:49, 154.39.255.195, 🇭🇰, Hong Kong, Apache Log4j RCE Attempt
+2021-12-13 16:21:52, 154.65.28.250, 🇧🇯, Benin, Apache Log4j RCE Attempt
+2021-12-13 16:21:55, 154.94.7.88, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:21:57, 156.146.35.73, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 16:22:00, 157.230.32.67, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:22:06, 157.245.109.75, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:22:11, 157.245.129.50, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:22:15, 158.69.204.95, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:22:18, 159.203.187.141, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:22:22, 159.203.45.181, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:22:26, 159.203.58.73, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:22:29, 159.203.8.145, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:22:32, 159.223.42.182, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:22:38, 159.223.61.102, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:22:42, 159.223.75.133, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:22:44, 159.223.81.193, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:22:47, 159.223.9.17, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:22:53, 159.48.55.216, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:22:56, 159.65.146.60, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:23:00, 159.65.155.208, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:23:07, 159.65.175.123, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:23:11, 159.65.189.107, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:23:13, 159.65.194.103, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:23:19, 159.65.3.102, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:23:24, 159.65.43.94, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:23:27, 159.65.58.66, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:23:32, 159.65.59.77, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:23:35, 159.89.113.255, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:23:39, 159.89.115.238, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:23:43, 159.89.122.19, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:23:47, 159.89.133.216, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:23:50, 159.89.146.147, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:23:54, 159.89.150.150, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:23:58, 159.89.154.102, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:02, 159.89.154.185, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:06, 159.89.154.64, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:10, 159.89.154.77, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:13, 159.89.180.119, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:17, 159.89.182.117, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:20, 159.89.48.173, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:23, 159.89.85.91, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:26, 159.89.94.219, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:30, 160.238.38.196, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 16:24:33, 160.238.38.207, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 16:24:36, 160.238.38.212, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 16:24:38, 161.35.119.60, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:45, 161.35.155.230, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:24:49, 161.35.156.13, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:24:53, 161.97.138.227, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:24:55, 162.142.125.193, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:24:58, 162.142.125.194, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:01, 162.142.125.195, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:04, 162.142.125.196, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:07, 162.142.125.42, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:10, 162.142.125.43, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:13, 162.142.125.44, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:16, 162.142.125.58, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:18, 162.142.125.59, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:21, 162.142.125.60, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:23, 162.247.74.201, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:27, 162.247.74.202, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:32, 162.247.74.206, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:34, 162.247.74.27, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:37, 162.247.74.7, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:40, 162.255.202.246, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:46, 162.33.177.73, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:25:48, 163.172.157.143, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 16:25:53, 163.172.213.212, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:25:55, 164.52.212.196, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:25:58, 164.52.53.163, 🇭🇰, Hong Kong, Apache Log4j RCE Attempt
+2021-12-13 16:26:01, 164.90.199.216, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:26:07, 164.90.199.221, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:26:09, 164.92.254.33, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:26:14, 165.22.201.45, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:26:18, 165.22.213.147, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:26:20, 165.22.213.246, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:26:24, 165.227.209.202, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:26:26, 165.227.239.108, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:26:29, 165.227.32.109, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:26:32, 165.227.37.189, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:26:36, 165.227.93.231, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:26:39, 165.232.80.166, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:26:42, 165.232.80.22, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:26:46, 165.232.84.226, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:26:49, 165.232.84.228, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:26:53, 166.70.207.2, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:26:56, 167.172.44.255, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:26:59, 167.172.94.250, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:27:03, 167.248.133.113, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:06, 167.248.133.114, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:09, 167.248.133.115, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:12, 167.248.133.116, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:14, 167.248.133.41, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:17, 167.248.133.42, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:20, 167.248.133.43, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:22, 167.248.133.44, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:25, 167.248.133.57, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:27, 167.248.133.58, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:30, 167.248.133.59, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:33, 167.248.133.60, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:36, 167.71.1.144, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:27:38, 167.71.13.196, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:27:45, 167.71.4.81, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:27:48, 167.94.138.113, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:50, 167.94.138.114, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:53, 167.94.138.115, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:56, 167.94.138.116, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:27:58, 167.94.138.41, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:01, 167.94.138.42, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:04, 167.94.138.43, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:07, 167.94.138.44, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:10, 167.94.138.57, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:13, 167.94.138.58, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:15, 167.94.138.59, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:18, 167.94.138.60, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:21, 167.94.145.60, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:28:24, 167.99.164.160, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:28, 167.99.164.201, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:34, 167.99.172.213, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:39, 167.99.172.58, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:43, 167.99.172.99, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:28:47, 167.99.186.227, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:28:51, 167.99.204.151, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:28:54, 167.99.221.217, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:28:59, 167.99.221.249, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:29:04, 167.99.251.87, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:29:07, 167.99.36.245, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:29:13, 167.99.44.32, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:29:16, 167.99.88.151, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:29:20, 170.210.45.163, 🇦🇷, Argentina, Apache Log4j RCE Attempt
+2021-12-13 16:29:27, 171.221.235.43, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:29:29, 171.25.193.20, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:29:37, 171.25.193.25, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:29:44, 171.25.193.77, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:29:51, 171.25.193.78, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:29:57, 172.105.241.146, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 16:30:00, 172.106.17.218, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:30:05, 172.107.194.186, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 16:30:08, 172.111.48.30, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:30:10, 172.241.167.37, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:30:13, 172.83.40.103, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:30:16, 174.138.6.128, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:30:21, 175.6.210.66, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:30:27, 176.10.104.240, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 16:30:32, 176.10.99.200, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 16:30:37, 176.58.100.98, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:30:40, 177.131.174.12, 🇧🇷, Brazil, Apache Log4j RCE Attempt
+2021-12-13 16:30:42, 177.185.117.129, 🇧🇷, Brazil, Apache Log4j RCE Attempt
+2021-12-13 16:30:45, 178.128.226.212, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:30:49, 178.128.229.113, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:30:52, 178.128.232.114, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:30:56, 178.17.170.135, 🇲🇩, Moldova, Apache Log4j RCE Attempt
+2021-12-13 16:30:58, 178.17.170.23, 🇲🇩, Moldova, Apache Log4j RCE Attempt
+2021-12-13 16:31:01, 178.17.171.102, 🇲🇩, Moldova, Apache Log4j RCE Attempt
+2021-12-13 16:31:07, 178.17.171.150, 🇲🇩, Moldova, Apache Log4j RCE Attempt
+2021-12-13 16:31:11, 178.17.174.14, 🇲🇩, Moldova, Apache Log4j RCE Attempt
+2021-12-13 16:31:15, 178.176.202.121, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 16:31:21, 178.176.203.190, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 16:31:29, 178.20.55.16, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 16:31:34, 178.239.167.180, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:31:37, 178.239.173.228, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:31:39, 178.62.23.146, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:31:43, 178.62.32.211, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:31:47, 178.62.61.47, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:31:51, 178.62.79.49, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:31:56, 179.43.187.138, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 16:32:01, 180.149.231.196, 🇳🇿, New Zealand, Apache Log4j RCE Attempt
+2021-12-13 16:32:05, 180.149.231.197, 🇳🇿, New Zealand, Apache Log4j RCE Attempt
+2021-12-13 16:32:07, 180.149.231.245, 🇳🇿, New Zealand, Apache Log4j RCE Attempt
+2021-12-13 16:32:11, 18.116.198.193, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:32:14, 181.214.39.2, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:32:19, 182.253.160.196, 🇮🇩, Indonesia, Apache Log4j RCE Attempt
+2021-12-13 16:32:21, 18.228.7.109, 🇧🇷, Brazil, Apache Log4j RCE Attempt
+2021-12-13 16:32:24, 18.27.197.252, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:32:31, 182.99.234.208, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:32:34, 182.99.246.106, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:32:40, 182.99.246.141, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:32:43, 182.99.246.172, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:32:49, 182.99.246.179, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:32:59, 182.99.246.183, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:33:06, 182.99.246.187, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:33:14, 182.99.246.199, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:33:21, 182.99.247.122, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:33:33, 182.99.247.145, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:33:42, 182.99.247.181, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:33:49, 182.99.247.188, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:33:52, 182.99.247.253, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:33:56, 182.99.247.67, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:34:04, 182.99.247.75, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:34:13, 185.100.86.128, 🇫🇮, Finland, Apache Log4j RCE Attempt
+2021-12-13 16:34:26, 185.100.87.139, 🇷🇴, Romania, Apache Log4j RCE Attempt
+2021-12-13 16:34:34, 185.100.87.174, 🇷🇴, Romania, Apache Log4j RCE Attempt
+2021-12-13 16:34:40, 185.100.87.202, 🇷🇴, Romania, Apache Log4j RCE Attempt
+2021-12-13 16:34:46, 185.100.87.41, 🇷🇴, Romania, Apache Log4j RCE Attempt
+2021-12-13 16:34:52, 185.10.68.168, 🇸🇨, Seychelles, Apache Log4j RCE Attempt
+2021-12-13 16:34:59, 185.107.47.171, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:35:04, 185.107.47.215, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:35:12, 185.107.70.56, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:35:18, 185.117.118.15, 🇫🇮, Finland, Apache Log4j RCE Attempt
+2021-12-13 16:35:22, 185.129.61.1, 🇩🇰, Denmark, Apache Log4j RCE Attempt
+2021-12-13 16:35:27, 185.129.61.4, 🇩🇰, Denmark, Apache Log4j RCE Attempt
+2021-12-13 16:35:32, 185.130.44.108, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:35:37, 185.14.97.147, 🇳🇴, Norway, Apache Log4j RCE Attempt
+2021-12-13 16:35:42, 185.154.53.140, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 16:35:45, 185.162.251.208, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:35:48, 185.165.168.77, 🇷🇴, Romania, Apache Log4j RCE Attempt
+2021-12-13 16:35:52, 185.165.169.18, 🇷🇴, Romania, Apache Log4j RCE Attempt
+2021-12-13 16:35:54, 185.167.163.118, 🇺🇦, Ukraine, Apache Log4j RCE Attempt
+2021-12-13 16:35:57, 185.17.121.251, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:36:00, 185.191.32.198, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 16:36:03, 185.199.100.233, 🇪🇸, Spain, Apache Log4j RCE Attempt
+2021-12-13 16:36:06, 185.202.220.109, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:36:09, 185.202.220.75, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:36:12, 185.213.155.168, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:36:16, 185.216.74.114, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:36:18, 185.218.127.47, 🇦🇺, Australia, Apache Log4j RCE Attempt
+2021-12-13 16:36:21, 185.220.100.240, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:36:27, 185.220.100.241, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:36:33, 185.220.100.242, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:36:38, 185.220.100.243, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:36:44, 185.220.100.244, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:36:49, 185.220.100.245, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:36:55, 185.220.100.246, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:00, 185.220.100.247, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:06, 185.220.100.248, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:11, 185.220.100.249, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:15, 185.220.100.250, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:19, 185.220.100.251, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:24, 185.220.100.252, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:30, 185.220.100.253, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:37, 185.220.100.254, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:44, 185.220.100.255, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:37:52, 185.220.101.128, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:37:55, 185.220.101.129, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:37:59, 185.220.101.131, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:38:09, 185.220.101.133, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:38:14, 185.220.101.134, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:38:20, 185.220.101.135, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:38:25, 185.220.101.136, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:38:29, 185.220.101.137, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:38:33, 185.220.101.138, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:38:38, 185.220.101.139, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:38:47, 185.220.101.141, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:38:51, 185.220.101.142, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:00, 185.220.101.143, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:11, 185.220.101.144, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:23, 185.220.101.145, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:27, 185.220.101.146, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:34, 185.220.101.147, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:39, 185.220.101.148, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:43, 185.220.101.149, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:48, 185.220.101.150, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:53, 185.220.101.151, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:39:59, 185.220.101.152, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:04, 185.220.101.153, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:10, 185.220.101.154, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:15, 185.220.101.155, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:20, 185.220.101.156, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:25, 185.220.101.157, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:29, 185.220.101.158, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:35, 185.220.101.159, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:40, 185.220.101.160, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:45, 185.220.101.161, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:49, 185.220.101.162, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:54, 185.220.101.163, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:40:58, 185.220.101.164, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:03, 185.220.101.165, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:08, 185.220.101.166, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:11, 185.220.101.167, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:16, 185.220.101.168, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:25, 185.220.101.170, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:30, 185.220.101.171, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:36, 185.220.101.172, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:41, 185.220.101.173, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:48, 185.220.101.174, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:52, 185.220.101.175, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:41:57, 185.220.101.176, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:03, 185.220.101.177, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:07, 185.220.101.178, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:12, 185.220.101.179, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:17, 185.220.101.180, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:21, 185.220.101.181, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:26, 185.220.101.182, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:31, 185.220.101.183, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:35, 185.220.101.184, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:40, 185.220.101.185, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:46, 185.220.101.186, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:50, 185.220.101.187, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:42:55, 185.220.101.188, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:43:00, 185.220.101.189, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:43:06, 185.220.101.190, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:43:11, 185.220.101.191, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:43:18, 185.220.101.3, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:43:21, 185.220.101.32, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:43:25, 185.220.101.33, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:43:30, 185.220.101.34, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:43:35, 185.220.101.35, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:43:41, 185.220.101.36, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:43:46, 185.220.101.37, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:43:50, 185.220.101.38, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:43:55, 185.220.101.39, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:01, 185.220.101.40, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:04, 185.220.101.41, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:08, 185.220.101.42, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:14, 185.220.101.43, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:19, 185.220.101.44, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:25, 185.220.101.45, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:29, 185.220.101.46, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:33, 185.220.101.47, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:36, 185.220.101.48, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:41, 185.220.101.49, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:46, 185.220.101.50, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:52, 185.220.101.51, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:44:56, 185.220.101.52, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:01, 185.220.101.53, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:06, 185.220.101.54, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:12, 185.220.101.55, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:17, 185.220.101.56, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:23, 185.220.101.57, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:29, 185.220.101.58, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:35, 185.220.101.59, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:38, 185.220.101.60, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:44, 185.220.101.61, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:48, 185.220.101.62, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:53, 185.220.101.63, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:45:57, 185.220.101.7, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:01, 185.220.101.9, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:05, 185.220.102.241, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:11, 185.220.102.242, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:15, 185.220.102.243, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:18, 185.220.102.245, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:21, 185.220.102.246, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:26, 185.220.102.249, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:31, 185.220.102.250, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:35, 185.220.102.252, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:40, 185.220.102.253, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:47, 185.220.102.254, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:53, 185.220.102.4, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:56, 185.220.102.6, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:46:58, 185.220.102.7, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:47:03, 185.220.102.8, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:47:08, 185.220.103.116, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:11, 185.220.103.117, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:13, 185.220.103.119, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:18, 185.220.103.4, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:24, 185.220.103.5, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:26, 185.220.103.7, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:31, 185.220.103.8, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:34, 185.232.23.46, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:47:39, 185.236.200.117, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:42, 185.245.86.84, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:45, 185.245.86.86, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:47, 185.245.87.245, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:47:50, 185.250.148.157, 🇲🇩, Moldova, Apache Log4j RCE Attempt
+2021-12-13 16:47:52, 185.38.175.130, 🇩🇰, Denmark, Apache Log4j RCE Attempt
+2021-12-13 16:47:57, 185.38.175.131, 🇩🇰, Denmark, Apache Log4j RCE Attempt
+2021-12-13 16:48:02, 185.38.175.132, 🇩🇰, Denmark, Apache Log4j RCE Attempt
+2021-12-13 16:48:07, 185.4.132.183, 🇬🇷, Greece, Apache Log4j RCE Attempt
+2021-12-13 16:48:12, 185.51.76.187, 🇩🇰, Denmark, Apache Log4j RCE Attempt
+2021-12-13 16:48:15, 185.56.80.65, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:48:19, 185.7.33.36, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:48:22, 185.83.214.69, 🇳🇴, Norway, Apache Log4j RCE Attempt
+2021-12-13 16:48:28, 188.120.246.215, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 16:48:32, 188.166.102.47, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:48:35, 188.166.105.150, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:48:39, 188.166.122.43, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:48:44, 188.166.170.135, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:48:47, 188.166.223.38, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:48:51, 188.166.225.104, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:48:56, 188.166.45.93, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:49:01, 188.166.48.55, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:49:07, 188.166.7.245, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:49:10, 188.166.74.97, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:49:14, 188.166.76.204, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:49:18, 188.166.86.206, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:49:22, 188.166.92.228, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:49:27, 188.241.156.221, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:49:29, 191.101.132.152, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:49:32, 191.232.38.25, 🇧🇷, Brazil, Apache Log4j RCE Attempt
+2021-12-13 16:49:39, 192.160.102.169, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:49:41, 192.42.116.18, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:49:44, 192.42.116.19, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:49:46, 192.81.130.207, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:49:49, 192.99.152.200, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:49:51, 193.110.95.34, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 16:49:57, 193.189.100.195, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:50:02, 193.189.100.196, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:50:05, 193.189.100.201, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:50:10, 193.189.100.202, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:50:12, 193.189.100.203, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:50:18, 193.196.53.232, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:50:20, 193.218.118.183, 🇺🇦, Ukraine, Apache Log4j RCE Attempt
+2021-12-13 16:50:27, 193.218.118.231, 🇺🇦, Ukraine, Apache Log4j RCE Attempt
+2021-12-13 16:50:32, 193.239.232.101, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:50:35, 193.239.232.102, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 16:50:38, 193.31.24.154, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:50:43, 193.32.210.125, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:50:46, 193.32.210.182, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:50:48, 194.110.84.39, 🇫🇮, Finland, Apache Log4j RCE Attempt
+2021-12-13 16:50:51, 194.110.84.93, 🇫🇮, Finland, Apache Log4j RCE Attempt
+2021-12-13 16:50:54, 194.135.33.152, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:50:58, 194.151.29.154, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:51:01, 194.163.133.36, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:51:04, 194.163.163.20, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:51:08, 194.163.44.188, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:51:11, 194.163.45.31, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:51:14, 194.195.118.221, 🇮🇳, India, Apache Log4j RCE Attempt
+2021-12-13 16:51:17, 194.48.199.78, 🇵🇱, Poland, Apache Log4j RCE Attempt
+2021-12-13 16:51:24, 195.123.247.209, 🇨🇿, Czechia, Apache Log4j RCE Attempt
+2021-12-13 16:51:28, 195.176.3.19, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 16:51:33, 195.176.3.23, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 16:51:36, 195.176.3.24, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 16:51:42, 195.19.192.26, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 16:51:51, 195.251.41.139, 🇬🇷, Greece, Apache Log4j RCE Attempt
+2021-12-13 16:51:57, 195.254.135.76, 🇷🇴, Romania, Apache Log4j RCE Attempt
+2021-12-13 16:52:02, 195.54.160.149, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 16:52:06, 197.246.171.111, 🇪🇬, Egypt, Apache Log4j RCE Attempt
+2021-12-13 16:52:10, 197.246.171.83, 🇪🇬, Egypt, Apache Log4j RCE Attempt
+2021-12-13 16:52:17, 198.144.121.43, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:52:21, 198.96.155.3, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:52:23, 198.98.51.189, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:28, 198.98.57.191, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:31, 198.98.57.207, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:34, 198.98.60.19, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:39, 199.195.250.77, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:44, 199.195.253.162, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:47, 199.217.117.92, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:50, 199.249.230.110, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:53, 199.249.230.119, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:56, 199.249.230.158, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:52:58, 20.205.104.227, 🇭🇰, Hong Kong, Apache Log4j RCE Attempt
+2021-12-13 16:53:06, 203.27.106.142, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:53:09, 203.27.106.165, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 16:53:11, 204.8.156.142, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:53:16, 205.185.115.217, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:53:19, 205.185.115.45, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:53:23, 205.185.117.149, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:53:27, 205.185.125.147, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:53:30, 205.185.126.167, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:53:33, 205.185.127.35, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:53:35, 206.188.196.219, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:53:38, 206.189.20.141, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:53:44, 20.71.156.146, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 16:53:51, 207.180.202.75, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 16:53:54, 209.127.17.234, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:53:59, 209.127.17.242, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 16:54:04, 209.141.34.232, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:06, 209.141.36.206, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:10, 209.141.41.103, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:14, 209.141.45.189, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:19, 209.141.45.227, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:23, 209.141.46.47, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:26, 209.141.49.232, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:29, 209.141.58.146, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:32, 209.58.146.160, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:34, 209.97.133.112, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 16:54:37, 209.97.147.103, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 16:54:40, 210.217.18.76, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 16:54:43, 211.154.194.21, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 16:54:49, 211.218.126.140, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 16:54:51, 212.102.50.103, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 16:54:54, 212.102.50.87, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 16:54:57, 212.102.50.89, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 17:09:34, 212.109.197.1, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 17:09:37, 212.192.216.30, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:09:40, 212.192.246.95, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:09:45, 212.193.30.142, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:09:49, 212.193.57.225, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 17:09:57, 212.47.237.67, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 17:09:59, 213.152.188.4, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:10:02, 213.156.18.247, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:10:05, 213.164.204.146, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 17:10:08, 213.202.216.189, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:10:14, 213.203.177.219, 🇮🇹, Italy, Apache Log4j RCE Attempt
+2021-12-13 17:10:17, 213.61.215.54, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:10:20, 213.95.149.22, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:10:23, 216.218.134.12, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:10:25, 217.112.83.246, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:10:29, 217.146.83.229, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:10:31, 218.29.217.234, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:10:34, 218.89.222.71, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:10:37, 221.199.187.100, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:10:43, 221.226.159.22, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:10:46, 221.228.87.37, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:10:48, 23.108.92.140, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:10:51, 23.120.182.121, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:10:57, 23.129.64.130, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:01, 23.129.64.131, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:07, 23.129.64.132, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:10, 23.129.64.133, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:14, 23.129.64.134, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:17, 23.129.64.135, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:22, 23.129.64.137, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:25, 23.129.64.138, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:27, 23.129.64.139, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:32, 23.129.64.140, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:35, 23.129.64.141, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:39, 23.129.64.142, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:42, 23.129.64.144, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:45, 23.129.64.145, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:51, 23.129.64.146, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:11:56, 23.129.64.148, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:02, 23.129.64.149, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:05, 23.154.177.2, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:10, 23.154.177.4, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:14, 23.154.177.7, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:19, 23.160.193.176, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:21, 23.183.83.71, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:24, 23.184.48.209, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:12:27, 23.82.194.167, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:30, 23.82.194.168, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:33, 2.56.57.208, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:36, 31.191.84.199, 🇮🇹, Italy, Apache Log4j RCE Attempt
+2021-12-13 17:12:39, 31.220.58.29, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:12:42, 31.42.184.34, 🇺🇦, Ukraine, Apache Log4j RCE Attempt
+2021-12-13 17:12:45, 31.42.186.101, 🇺🇦, Ukraine, Apache Log4j RCE Attempt
+2021-12-13 17:12:49, 31.6.19.41, 🇮🇪, Ireland, Apache Log4j RCE Attempt
+2021-12-13 17:12:53, 3.26.198.32, 🇦🇺, Australia, Apache Log4j RCE Attempt
+2021-12-13 17:12:56, 34.124.226.216, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 17:12:58, 34.125.76.237, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:13:01, 34.247.50.189, 🇮🇪, Ireland, Apache Log4j RCE Attempt
+2021-12-13 17:13:06, 35.170.71.122, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:13:10, 35.76.31.198, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 17:13:13, 36.155.14.163, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:13:16, 36.227.164.189, 🇹🇼, Taiwan, Apache Log4j RCE Attempt
+2021-12-13 17:13:18, 37.120.158.20, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 17:13:22, 37.120.158.22, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 17:13:24, 37.120.199.196, 🇪🇸, Spain, Apache Log4j RCE Attempt
+2021-12-13 17:13:27, 37.120.203.182, 🇳🇴, Norway, Apache Log4j RCE Attempt
+2021-12-13 17:13:30, 37.120.232.51, 🇩🇰, Denmark, Apache Log4j RCE Attempt
+2021-12-13 17:13:33, 37.123.163.58, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 17:13:38, 37.19.212.104, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 17:13:44, 37.19.212.88, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 17:13:47, 37.19.213.150, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 17:13:50, 37.228.129.109, 🇫🇮, Finland, Apache Log4j RCE Attempt
+2021-12-13 17:13:52, 38.143.9.76, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:13:55, 39.102.236.51, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:13:59, 3.94.114.30, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:14:02, 41.203.140.114, 🇳🇪, Niger, Apache Log4j RCE Attempt
+2021-12-13 17:14:04, 42.192.17.155, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:14:08, 42.192.69.45, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:14:11, 42.193.8.97, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:14:14, 42.98.70.127, 🇭🇰, Hong Kong, Apache Log4j RCE Attempt
+2021-12-13 17:14:16, 44.240.146.137, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:14:20, 45.12.134.108, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:14:24, 45.129.56.200, 🇩🇰, Denmark, Apache Log4j RCE Attempt
+2021-12-13 17:14:31, 45.130.229.168, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 17:14:36, 45.13.104.179, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 17:14:42, 45.137.155.55, 🇺🇦, Ukraine, Apache Log4j RCE Attempt
+2021-12-13 17:14:45, 45.137.184.31, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:14:49, 45.137.21.9, 🇧🇩, Bangladesh, Apache Log4j RCE Attempt
+2021-12-13 17:14:57, 45.15.16.70, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 17:15:00, 45.153.160.130, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:06, 45.153.160.131, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:11, 45.153.160.133, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:17, 45.153.160.134, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:23, 45.153.160.135, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:28, 45.153.160.136, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:34, 45.153.160.138, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:39, 45.153.160.139, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:42, 45.153.160.140, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:44, 45.153.160.2, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:15:50, 45.154.255.147, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 17:15:56, 45.155.204.20, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 17:15:59, 45.155.205.233, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 17:16:12, 45.248.77.142, 🇦🇺, Australia, Apache Log4j RCE Attempt
+2021-12-13 17:16:15, 45.33.120.240, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:16:19, 45.33.47.240, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:16:22, 45.61.185.54, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:16:25, 45.61.186.225, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:16:28, 45.64.75.134, 🇭🇰, Hong Kong, Apache Log4j RCE Attempt
+2021-12-13 17:16:31, 45.83.193.150, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:16:35, 46.101.223.115, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:16:39, 46.105.95.220, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 17:16:45, 46.166.139.111, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:16:52, 46.173.218.146, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 17:16:56, 46.182.21.248, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:17:01, 46.4.51.212, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:17:04, 47.254.127.78, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:17:10, 49.234.43.244, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:17:13, 49.234.81.169, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:17:16, 49.7.224.217, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:17:19, 5.101.145.41, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:17:22, 5.101.145.43, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:17:25, 51.15.180.36, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 17:17:28, 51.15.43.205, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:17:36, 51.15.59.15, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:17:38, 51.15.76.60, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:17:44, 51.195.45.190, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:17:47, 51.255.106.85, 🇧🇪, Belgium, Apache Log4j RCE Attempt
+2021-12-13 17:17:52, 5.135.141.139, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 17:17:55, 5.157.38.50, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 17:18:03, 51.75.161.78, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:18:06, 51.77.52.216, 🇵🇱, Poland, Apache Log4j RCE Attempt
+2021-12-13 17:18:12, 5.181.235.45, 🇯🇵, Japan, Apache Log4j RCE Attempt
+2021-12-13 17:18:15, 5.182.210.216, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:18:21, 5.183.209.217, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:18:24, 5.199.143.202, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:18:30, 5.22.208.77, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:18:33, 52.231.93.116, 🇰🇷, South Korea, Apache Log4j RCE Attempt
+2021-12-13 17:18:36, 5.2.69.50, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:18:40, 5.2.70.140, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:18:43, 5.2.72.73, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:18:46, 54.146.233.218, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:18:49, 54.173.99.121, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:18:55, 54.210.230.186, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:18:58, 58.100.164.147, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:19:01, 60.31.180.149, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:19:09, 61.175.202.154, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:19:12, 61.178.32.114, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:19:15, 61.19.25.207, 🇹🇭, Thailand, Apache Log4j RCE Attempt
+2021-12-13 17:19:23, 62.102.148.68, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 17:19:30, 62.102.148.69, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 17:19:35, 62.171.142.3, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:19:39, 62.210.130.250, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 17:19:42, 62.76.41.46, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 17:19:51, 64.113.32.29, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:19:57, 64.227.67.110, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2021-12-13 17:20:01, 66.220.242.222, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:20:07, 67.205.170.85, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:20:12, 67.205.191.102, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:20:15, 67.207.93.79, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:20:18, 68.183.192.239, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 17:20:24, 68.183.198.247, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 17:20:30, 68.183.198.36, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 17:20:36, 68.183.207.73, 🇨🇦, Canada, Apache Log4j RCE Attempt
+2021-12-13 17:20:42, 68.183.33.144, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:20:46, 68.183.35.171, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:20:50, 68.183.36.244, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:20:56, 68.183.37.10, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:20:59, 68.183.41.150, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:21:04, 68.183.44.143, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:21:10, 68.183.45.190, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:21:13, 68.79.17.59, 🇨🇳, China, Apache Log4j RCE Attempt
+2021-12-13 17:21:20, 72.223.168.73, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:21:25, 78.110.164.45, 🇬🇧, United Kingdom, Apache Log4j RCE Attempt
+2021-12-13 17:21:28, 79.146.170.248, 🇪🇸, Spain, Apache Log4j RCE Attempt
+2021-12-13 17:21:31, 79.172.214.11, 🇭🇺, Hungary, Apache Log4j RCE Attempt
+2021-12-13 17:21:34, 80.71.158.12, 🇺🇦, Ukraine, Apache Log4j RCE Attempt
+2021-12-13 17:21:37, 80.71.158.44, 🇺🇦, Ukraine, Apache Log4j RCE Attempt
+2021-12-13 17:21:42, 81.17.18.59, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 17:21:46, 81.17.18.60, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 17:21:52, 81.17.18.61, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 17:21:57, 81.17.18.62, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 17:22:04, 81.6.43.167, 🇨🇭, Switzerland, Apache Log4j RCE Attempt
+2021-12-13 17:22:07, 82.102.25.253, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 17:22:10, 82.102.31.170, 🇺🇸, United States, Apache Log4j RCE Attempt
+2021-12-13 17:22:14, 82.221.131.71, 🇮🇸, Iceland, Apache Log4j RCE Attempt
+2021-12-13 17:22:20, 84.17.39.201, 🇸🇬, Singapore, Apache Log4j RCE Attempt
+2021-12-13 17:22:23, 84.17.42.118, 🇫🇷, France, Apache Log4j RCE Attempt
+2021-12-13 17:22:26, 85.93.218.204, 🇱🇺, Luxembourg, Apache Log4j RCE Attempt
+2021-12-13 17:22:29, 86.106.103.29, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 17:22:32, 86.109.208.194, 🇷🇺, Russia, Apache Log4j RCE Attempt
+2021-12-13 17:22:35, 87.118.110.27, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:22:38, 88.80.20.86, 🇸🇪, Sweden, Apache Log4j RCE Attempt
+2021-12-13 17:22:44, 89.163.143.8, 🇩🇪, Germany, Apache Log4j RCE Attempt
+2021-12-13 17:22:47, 89.163.154.91, 🇩🇪, Germany, Apache Log4j RCE Attempt
