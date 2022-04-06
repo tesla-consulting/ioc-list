@@ -5800,3 +5800,4 @@ submitted, ip, flag, country, description
 2022-04-05 12:03:03, 72.46.52.135, 🇺🇸, United States, Malicious Host
 2022-04-05 12:03:03, 195.154.187.240, 🇫🇷, France, Malicious Host
 2022-04-05 15:02:07, 104.223.34.198, 🇳🇱, Netherlands, Apache Log4j RCE Attempt
+2022-04-06 12:15:11, 160.36.59.113, 🇺🇸, United States, Apache Log4j RCE Attempt
